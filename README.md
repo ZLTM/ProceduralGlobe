@@ -1,11 +1,11 @@
-# RollAFlyweight
+# Procedural Globe
 > Globe made using perling noise
 
 [![Type](https://img.shields.io/badge/Type-Simulation-945C1D.svg)](https://github.com/ZLTM/Taki)
 [![State](https://img.shields.io/badge/State-Done-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PXWsev5"><a href="//imgur.com/PXWsev5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://i.imgur.com/BtEsj0b.png)
 
 Procedurally generated 2D globe made using perling noise..
 Based on <a href="https://medium.com/@travall/procedural-2d-island-generation-noise-functions-13976bddeaf9">
