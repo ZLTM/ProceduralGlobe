@@ -26,9 +26,9 @@ Open with as a jupyter notebook, hit run.
 David Revilla:
 
 <a href="https://twitter.com/ZLTM_david" target="_blank">
-  <img width="50" height="50" border="0" align="center"  src="twitter-logo.jpg"></a>
+  <img width="50" height="50" border="0" align="center"  src="https://i.imgur.com/rDHKFDM.jpg"></a>
 <a href="https://www.linkedin.com/in/zolutr/" target="_blank">
-  <img width="50" height="50" border="0" align="center"  src="linkedin-logo.png"></a>
+  <img width="50" height="50" border="0" align="center"  src="https://i.imgur.com/GkwbFEf.png"></a>
   <a href="https://codepen.io/zltm/pen/gXbZbJ" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="codepen-logo.png"></a>
 
